@@ -13,7 +13,7 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url('../../../ticket.png');
+    background-image: url('../img/ticket.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
